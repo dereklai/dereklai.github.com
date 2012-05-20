@@ -4,7 +4,7 @@
   <title><![CDATA[Ninjas at Lailab]]></title>
   <link href="http://dereklai.github.com/atom.xml" rel="self"/>
   <link href="http://dereklai.github.com/"/>
-  <updated>2012-05-20T23:09:44+08:00</updated>
+  <updated>2012-05-20T23:12:24+08:00</updated>
   <id>http://dereklai.github.com/</id>
   <author>
     <name><![CDATA[cclua]]></name>
@@ -19,7 +19,7 @@
     <updated>2012-05-20T15:02:00+08:00</updated>
     <id>http://dereklai.github.com/blog/2012/05/20/derek-is-in</id>
     <content type="html"><![CDATA[<center>
-<img src="images/supermanreturns.png" ALT="Superman Returns"></img>
+<img src="http://dereklai.github.com/images/supermanreturns.png" ALT="Superman Returns"></img>
 </center>
 
 
