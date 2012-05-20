@@ -4,7 +4,7 @@
   <title><![CDATA[Derek at Lailab]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-05-20T22:22:53+08:00</updated>
+  <updated>2012-05-20T22:24:45+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[dereklai]]></name>
@@ -28,11 +28,9 @@
     <updated>2012-05-20T15:02:00+08:00</updated>
     <id>http://yoursite.com/blog/2012/05/20/derek-is-in</id>
     <content type="html"><![CDATA[<center>
-<img src="images/supermanreturns.png"></img>
+<img src="images/supermanreturns.png" ALT="Superman Returns"></img>
 </center>
 
-
-<h2>超人重返 Superman Returns</h2>
 
 <p>由於<strong>「組織」</strong>的安排，我必須即刻重拾撰碼的專業，以身作則，帶領一群高手投入 HTML5 + CSS3 + Javascript 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。</p>
 
