@@ -4,7 +4,7 @@
   <title><![CDATA[Derek at Lailab]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-05-20T21:46:00+08:00</updated>
+  <updated>2012-05-20T22:00:06+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[dereklai]]></name>
@@ -34,7 +34,11 @@ title: &#8220;砍掉重練！開始學忍術啦！&#8221;
 date: 2012-05-20 15:02
 comments: true</p>
 
-<h2>categories: jsdc js ninja</h2>
+<h2>categories:   </h2>
+
+<h2>超人重返 Superman Returns</h2>
+
+<p>(superman_returns.png)</p>
 
 <p>由於<strong>「組織」</strong>的安排，我必須即刻重拾撰碼的專業，以身作則，帶領一群高手投入 HTML5 + CSS3 + Javascript 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。</p>
 
