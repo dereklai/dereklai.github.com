@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Derek at Lailab 
-subtitle: 德瑞克的行動運算實驗室日誌
-author: dereklai
+url: http://dereklai.github.com
+title: Ninjas at Lailab 
+subtitle: 忍術運算實驗室日誌
+author: cclua
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: derek@lailab.net
+email: cc@lailab.net
 
 # ----------------------- #
 #    Jekyll & Plugins     #
