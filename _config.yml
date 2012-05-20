@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://dereklai.github.com
+title: Derek @ Lailab 
+subtitle: 德瑞克的行動運算實驗室 
+author: dereklai 
 simple_search: http://google.com/search
 description:
 
