@@ -7,7 +7,7 @@ categories:
 ---
 
 <center>
-<img src="images/supermanreturns.png" ALT="Superman Returns"></img>
+<img src="/images/supermanreturns.png" ALT="Superman Returns"></img>
 </center>
 <br>
 
