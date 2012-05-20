@@ -3,8 +3,13 @@ layout: post
 title: "砍掉重練！開始學忍術啦！"
 date: 2012-05-20 15:02
 comments: true
-categories: jsdc js ninja
+categories:   
 --
+
+## 超人重返 Superman Returns
+(superman_returns.png)
+
+
 由於**「組織」**的安排，我必須即刻重拾撰碼的專業，以身作則，帶領一群高手投入 HTML5 + CSS3 + Javascript 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。
 
 最困難的事是全體高手必須以「砍掉重練」的心情，拋棄原先滿身的~~其它無用~~功夫，轉換腦袋，在一個月內以最高效率從零開始進行苦練，務求迅速練成真正能出國比賽的 JS Ninja。
