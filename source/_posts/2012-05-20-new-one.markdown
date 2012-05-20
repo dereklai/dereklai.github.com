@@ -1,0 +1,7 @@
+---
+layout: post
+title: "new one"
+date: 2012-05-20 15:40
+comments: true
+categories: 
+---
