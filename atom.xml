@@ -4,7 +4,7 @@
   <title><![CDATA[Derek at Lailab]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-05-20T22:12:05+08:00</updated>
+  <updated>2012-05-20T22:12:50+08:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[dereklai]]></name>
@@ -27,9 +27,8 @@
     <link href="http://yoursite.com/blog/2012/05/20/derek-is-in/"/>
     <updated>2012-05-20T15:02:00+08:00</updated>
     <id>http://yoursite.com/blog/2012/05/20/derek-is-in</id>
-    <content type="html"><![CDATA[<h2>超人重返 Superman Returns</h2>
-
-<center>
+    <content type="html"><![CDATA[<center>
+## 超人重返 Superman Returns
 <img src="images/supermanreturns.png"></img>
 </center>
 
