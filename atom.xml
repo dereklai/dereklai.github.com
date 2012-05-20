@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dereklai.github.com/atom.xml" rel="self"/>
-  <link href="http://dereklai.github.com/"/>
-  <updated>2012-05-20T15:05:26+08:00</updated>
-  <id>http://dereklai.github.com/</id>
+  <title><![CDATA[Derek at Lailab]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-05-20T16:05:42+08:00</updated>
+  <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -14,10 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[new one]]></title>
+    <link href="http://yoursite.com/blog/2012/05/20/new-one/"/>
+    <updated>2012-05-20T15:40:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/05/20/new-one</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[again]]></title>
+    <link href="http://yoursite.com/blog/2012/05/20/again/"/>
+    <updated>2012-05-20T15:37:00+08:00</updated>
+    <id>http://yoursite.com/blog/2012/05/20/again</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Derek is in]]></title>
-    <link href="http://dereklai.github.com/blog/2012/05/20/derek-is-in/"/>
+    <link href="http://yoursite.com/blog/2012/05/20/derek-is-in/"/>
     <updated>2012-05-20T15:02:00+08:00</updated>
-    <id>http://dereklai.github.com/blog/2012/05/20/derek-is-in</id>
+    <id>http://yoursite.com/blog/2012/05/20/derek-is-in</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
