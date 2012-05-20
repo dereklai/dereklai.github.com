@@ -7,7 +7,7 @@ categories:
 ---
 
 ## 超人重返 Superman Returns
-(image/supermanreturns.png)
+<img src="image/supermanreturns.png"></img>
 
 
 由於**「組織」**的安排，我必須即刻重拾撰碼的專業，以身作則，帶領一群高手投入 HTML5 + CSS3 + Javascript 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。
